@@ -1,0 +1,11 @@
+.bg-card-color {
+    background: #52667a;
+}
+.butt-search {
+    background-color: lightgray;
+}
+.header-color {
+    background-color: #19194d;
+  background-image: linear-gradient(90deg, #24248f 0%,
+  #19194d 75%,  #1a003399 90%);
+}
